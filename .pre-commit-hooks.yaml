@@ -1,0 +1,6 @@
+# .pre-commit-hooks.yaml
+- id: readme-up
+  name: readme-up
+  description: Update README.md
+  entry: readme-up
+  language: python
