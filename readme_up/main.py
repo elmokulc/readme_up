@@ -107,4 +107,4 @@ def main():
     with open("README.md", "w") as f:
         f.write(text)
 
-    print("Links updates !")
+    print("Links update by readme-up" , end="\r")
